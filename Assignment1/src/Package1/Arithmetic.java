@@ -19,7 +19,7 @@ public class Arithmetic {
 	
 	public int Division(int j, int k) {
 		int l = j/k;
-		System.out.println("Final Result = " + l + "\n");
+		System.out.println("** Final Result ** = " + l + "\n");
 		return l;
 	}
 
